@@ -1,18 +1,13 @@
-# flutter_hive_database
+# Flutter Hive Database Example
 
-A new Flutter project.
+A new Flutter project to understand to Hive database implementation.
 
-## Getting Started
+Detail explanation can be found at - [App With Flutter](https://www.appwithflutter.com)
 
-This project is a starting point for a Flutter application.
+## Packages Used
 
-A few resources to get you started if this is your first Flutter project:
+- [Hive Package](https://pub.dev/packages/hive#-readme-tab-)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-https://github.com/follow2vivek/flutter_hive_database
+## Screenshots
+<img src="./screenshots/flutter-hive-database-insert.png" height="500em"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/flutter-hive-database-read.png" height="500em"/>
